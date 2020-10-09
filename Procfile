@@ -1,1 +1,1 @@
-worker: python smuggler.py -u https://kenshin.hk
+worker: py smuggler.py -u https://kenshin.hk

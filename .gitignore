@@ -152,3 +152,4 @@ cython_debug/
 
 # Smuggler results
 payloads/*.txt
+log.txt

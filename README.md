@@ -10,7 +10,7 @@
      @defparam
 ```
 
-# Smuggler
+# Smuggler2
 
 An HTTP Request Smuggling / Desync testing tool written in Python 3
 
